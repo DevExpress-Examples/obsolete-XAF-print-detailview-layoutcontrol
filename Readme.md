@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [PrintDetailViewController.cs](./CS/WinExample.Module.Win/PrintDetailViewController.cs) (VB: [PrintDetailViewController.vb](./VB/WinExample.Module.Win/PrintDetailViewController.vb))
+<!-- default file list end -->
 # OBSOLETE - How to print DetailView ( LayoutControl )
 
 
